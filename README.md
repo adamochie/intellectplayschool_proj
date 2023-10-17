@@ -1,4 +1,4 @@
-# intellectplayschool_proj
+# Intellect Playschool Management System
 
 We are to assign to create a website for a preschool by the owner of Intellect Playschool located at Johor Bahru, 
 My team consist of 5 people, I am in charge of the attendance module which was quite hard. However, we managed to complete our website in less than 3 months 
