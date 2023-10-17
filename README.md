@@ -34,3 +34,5 @@ Queries of the attendance will include the following:
 - List all of the students’ reasons of absence. [View student attendance]
 - List the students’ RTK test status and result. [View student attendance]
 
+The full hosted website: https://intellectplayschool.000webhostapp.com/
+
